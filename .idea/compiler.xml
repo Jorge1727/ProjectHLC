@@ -9,5 +9,8 @@
         <module name="ProjectHLC.org" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="projectHLC.org" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
