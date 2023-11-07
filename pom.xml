@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>org.iesvdm</groupId>
-    <artifactId>ProjectHLC</artifactId>
+    <artifactId>projecthlc</artifactId>
     <version>java</version>
 
     <properties>
