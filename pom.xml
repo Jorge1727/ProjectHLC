@@ -6,7 +6,7 @@
 
     <groupId>org.iesvdm</groupId>
     <artifactId>ProjectHLC</artifactId>
-    <version>SNAPSHOT</version>
+    <version>java</version>
 
     <properties>
         <maven.compiler.source>11</maven.compiler.source>
